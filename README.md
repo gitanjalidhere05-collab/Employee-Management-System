@@ -26,4 +26,4 @@ A simple Android application to manage employee records.
 3. Run on emulator or device
 
 ## Developer
-Shrutika Nalawade
+Gitanjali Dhere
